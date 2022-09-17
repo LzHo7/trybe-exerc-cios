@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    padding: 0px;
+  
+/* Header abaixo */   
+}
+header{
+    background-color: rgb(231, 223, 212);
+}
+
+
+.title{
+    text-align: center;
+    margin: auto;
+     margin-top: 23px;
+     font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    font-weight:900;
+    margin: auto;
+
+}
+nav{
+    background-color: rgb(228, 204, 204);
+    height: 100px;
+    
+}
+
+.navv ul{
+    display:inline-block;
+    margin-left: 450px;
+   
+
+}
+.navv ul li{
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px;
+    
+   
+}
+ul li.button1:hover{
+    border: 2px solid rgb(16, 16, 16);
+    margin: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px;
+    
+}
+ul li.button2:hover{
+    border: 2px solid rgb(16, 16, 16);
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px;
+   
+}
+ul li.button3:hover{
+    border: 2px solid rgb(16, 16, 16);
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px;
+    
+}
+
+/* Main abaixo: */
+
+.container-back{
+    background-color: rgb(223, 212, 212);
+    overflow: auto;
+    margin-top: 10px;
+    
+}
+
+
+
+.container-description{
+  max-width: 400px;
+  float: left;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+
+.imagem {
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+/* Sugunda seção da main */
+.container-img{
+   width: 800px;
+    float:right;
+}
+.container-img2{
+    margin-top: 19px;
+
+    
+}
+
+.container-third{
+    float:left;
+    width: 400px;
+    margin-right: 200px;
+}
+
+.container-back2{
+    background-color: rgb(204, 212, 220);
+    overflow: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.description2{
+    width: 600px;
+    float: right;
+    
+}
+
+.container-back3{
+    background-color: rgb(226, 211, 190);
+}
+
+.container-description3{
+    float: left;
+   margin-right: 220px ;
+   width: 400px;
+   margin-left: 40px;
+}
+
+.container-all{
+    border: 2px inset black;
+    box-shadow: -3px -3px 40px;
+    margin-top: 15px;
+}
+
+.container-ref ul li a{
+    font-size: 46xp;
+   
+}
+
+.container-video{
+    margin-left: 20px;
+}
